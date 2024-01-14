@@ -1,0 +1,9 @@
+[submodule "mf-ch-panel"]
+	path = mf-ch-panel
+	url = https://github.com/emsoft1/mf-ch-panel.git
+[submodule "mf_ch_home"]
+	path = mf_ch_home
+	url = https://github.com/emsoft1/mf_ch_home.git
+[submodule "mf_ch_server"]
+	path = mf_ch_server
+	url = https://github.com/emsoft1/mf_ch_server.git
