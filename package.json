@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm run --prefix ./panel test"
+    "test_server": "npm run --prefix ./mf_ch_server test",
+    "test_panel": "npm run --prefix ./mf-ch-panel test"
+
   },
   "author": "Mehrdad Mansouri",
   "license": "ISC"
