@@ -1,0 +1,11 @@
+{
+  "name": "micro_frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run --prefix ./panel test"
+  },
+  "author": "Mehrdad Mansouri",
+  "license": "ISC"
+}
