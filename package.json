@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test_server": "npm run --prefix ./mf_ch_server test",
-    "test_panel": "npm run --prefix ./mf-ch-panel test"
+    "test_panel": "npm run --prefix ./mf-ch-panel test",
+    "ci_sub": "npm --prefix ./mf_ch_server ci && npm --prefix ./mf-ch-panel ci"
 
   },
   "author": "Mehrdad Mansouri",
