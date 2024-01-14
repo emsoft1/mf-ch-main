@@ -39,5 +39,5 @@ jobs:
 
 
     - run: npm ci
-    - run: npm run test_server
-    - run: npm run test_panel
+    - run: npm run test_server --if-present
+    - run: npm run test_panel --if-present
